@@ -211,12 +211,7 @@ input {
         padding: 0;
     }
 
-}
-	img.foot{
-		width: 25%;
-		height: 25%;
-	}
-	
+}	
         div.Titolo{ background: #3c66aa;color:#fff;margin:0 auto;max-width:983px;text-transform:
         uppercase;margin-top:15px;padding-left:15px;padding-top:11px;
         padding-bottom:8px;line-height:21px;font-family:"Helvetica";}
